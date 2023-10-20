@@ -30,6 +30,7 @@ To run the code in the Jupyter Notebook, you'll need the following dependencies:
 - Keras (usually included with TensorFlow)
 - NumPy
 - Matplotlib
+- Opencv
 
 You can install the required dependencies using pip:
 
